@@ -1,5 +1,6 @@
 # Aquifer Pollutants
 Regression modeling practice
+Tool: R
 
 ## Part 1
 Investigate relationships between uranium and other concentrations in the Ogallala aquifer.
